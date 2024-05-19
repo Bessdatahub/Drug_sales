@@ -24,7 +24,7 @@ Data Modelling: star Schema
 ![](Drug_3.jpg)
 
 
-## Data VGisualization
+## Data Visualization
 
 ![](Drug_2.jpg)
 
