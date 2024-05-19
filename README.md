@@ -42,7 +42,7 @@ Customers are categorized as either buyers or sellers. Those who buy the drugs f
 
 The third dashboard focuses on trend analysis. The total number of transactions from 2022-2023 was approximately 12,000. There has been an overall increase in revenue from 2022 to 2023, with a consistent increase across quarters 1 to 4. However, there have also been both upward and downward trends in monthly revenue throughout this period.
 
-To interact with the dataset click [here] (https://app.powerbi.com/groups/me/reports/42fc8eb5-0dd2-413e-8cfc-5d22a77e2c78/ReportSection2cc07c22a4d2b443712a?experience=power-bi)
+To interact with the dataset click [here](https://app.powerbi.com/groups/me/reports/42fc8eb5-0dd2-413e-8cfc-5d22a77e2c78/ReportSection2cc07c22a4d2b443712a?experience=power-bi)
 
 ![](Drug_6.jpg)
 
